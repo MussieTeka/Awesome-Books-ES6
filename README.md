@@ -158,8 +158,6 @@ I would like to thank the following resources and individuals for their help and
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
 - **Can I modify and redistribute this project?**
 
   - Yes, you can modify and redistribute this project as long as you follow the terms of the MIT license.
