@@ -9,7 +9,7 @@ import {
   showContactUs,
 } from './modules/elements.js';
 
-import { DateTime, updateTime } from './modules/time.js ';
+import { DateTime, updateTime } from './modules/time.js';
 
 const myBookList = new BookList();
 
