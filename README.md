@@ -21,6 +21,7 @@
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -68,10 +69,6 @@ The project was built using the following technologies:
 - **Automatically updates the current time on the web page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,6 +123,15 @@ This project was developed by:
 - GitHub: [@MussieTeka](https://github.com/MussieTeka)
 - Twitter: [@mussieteka](https://twitter.com/mussieteka)
 - LinkedIn: [@mussieteka](https://linkedin.com/in/mussieteka)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **Implementing additional UI features.**
+- **Integrating with hosting sites to deploy the website.**
+- **Implementing a search functionality to allow users to search for speakers or events.**
+- **Adding the remaining pages to the website.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
