@@ -89,7 +89,11 @@ Clone this repository to your desired folder by running the following command:
 
 ### Install
 
-There are no installation steps required for this project.
+You can install this repositiory using:
+```sh
+  npm install luxon
+  npm install
+```
 
 ### Usage
 
