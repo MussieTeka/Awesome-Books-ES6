@@ -147,7 +147,7 @@ If you like this project, please give it a star on GitHub.
 
 I would like to thank the following resources and individuals for their help and inspiration:
 
-- <a href="www.microverse.org">Microverse</a>, an online software engineering coding bootcamp.
+- <a href="https://www.microverse.org/">Microverse</a>, an online software engineering coding bootcamp.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
